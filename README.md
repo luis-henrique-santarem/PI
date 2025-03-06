@@ -5,3 +5,7 @@ https://miro.com/welcomeonboard/cllidVdGMDBMak54OEVjeC9tbFhrdWlLNzFSUjhoNGRtMmkx
 
 
 ![Geo Atlas (1)](https://github.com/user-attachments/assets/f73a8952-1272-433d-9f45-d129281af596)
+
+
+
+https://www.overleaf.com/read/yzwjdfbyvynr#16eb6c
