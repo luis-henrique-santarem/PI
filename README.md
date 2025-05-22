@@ -1,14 +1,18 @@
 
 # AtlasMundi
+---
+# Nosso agendamento de tarefas
 
 [Nosso Trello](https://trello.com/invite/b/682cb687094b52b44e1b9129/ATTIbde089498dc6829d582d981e7f1a7dd93BE445EF/atlasmundi-trello)
 
-![Captura de tela 2025-05-20 164211](https://github.com/user-attachments/assets/77983c92-78cc-4226-964b-542f99802472)
 
+---
+
+# Uma imagem do banco de dados no modelo lógico
 
 ![Lógico_AtlasMundi2](https://github.com/user-attachments/assets/214027d8-3110-41dd-b47a-ac7aa0438f5a)
 
-
+---
 
 
 
