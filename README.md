@@ -22,7 +22,7 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 
 
 
-Este projeto está licenciado sob a licença Apache 2.0. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença Apache 2.0. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
 # Nosso agendamento de tarefas
