@@ -14,7 +14,7 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 ## Autores
 
 - [@Luis](https://github.com/luis-henrique-santarem)
-- [@Heloisa](https://github.com/LiviaHeloisa)
+- [@Heloisa](https://github.com/LiviaSobral)
 - []()
 
 
