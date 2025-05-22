@@ -85,11 +85,10 @@ Este projeto está licenciado sob a licença Apache 2.0. Veja o arquivo [LICENSE
 
 ## Tecnologias
 
-- TypeScript 
-- HTML
-- CSS
-- BRmodelo
-- MySQL
+![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Funcionalidades
 
