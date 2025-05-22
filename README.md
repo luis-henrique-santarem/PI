@@ -85,7 +85,7 @@ Este projeto está licenciado sob a licença Apache 2.0. Veja o arquivo [LICENSE
 
 ## Tecnologias
 
-- TypeScript
+- TypeScript 
 - HTML
 - CSS
 - BRmodelo
