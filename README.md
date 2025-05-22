@@ -23,9 +23,20 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 
 
 
-### Tela informativa por país
+### Tela informativa por País
 ![image](https://github.com/user-attachments/assets/4a32376b-2e3b-4336-a060-b3393f1ac589)
 
+
+### Tela Historia do País
+![image](https://github.com/user-attachments/assets/2ba0799b-13c9-4eca-b4a8-02101ebe7237)
+
+
+### Tela cultura do País
+![image](https://github.com/user-attachments/assets/ccafc4e3-376f-4992-856d-6d6318ae558e)
+
+
+### Tela politica do País
+![image](https://github.com/user-attachments/assets/a4f47418-82ed-4dcd-b456-f17e21149b6a)
 
 
 
