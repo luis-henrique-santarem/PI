@@ -16,11 +16,7 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 
 ---
 
-# Uma imagem do banco de dados no modelo lógico
 
-![Lógico_AtlasMundi2](https://github.com/user-attachments/assets/214027d8-3110-41dd-b47a-ac7aa0438f5a)
-
----
 
 
 # Artigo
@@ -39,6 +35,9 @@ https://www.overleaf.com/read/kxnnsgwwcbyr#9612bd
 primeira apresentação do AtlasMundi:
 https://www.canva.com/design/DAGgIvLOTIk/jCA2Y3XLzYzC5bw4_Hh1Cg/edit?utm_content=DAGgIvLOTIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+---
+# Uma imagem do banco de dados no modelo lógico
 
+![Lógico_AtlasMundi2](https://github.com/user-attachments/assets/214027d8-3110-41dd-b47a-ac7aa0438f5a)
 
 
