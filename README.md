@@ -19,6 +19,7 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 - [Artigo](#Artigo)
 - [Apresentações](#Apresentações)
 - [Imagem-Banco](#Imagem-Banco)
+- [Instalação](#Instalação)
 
 
   
@@ -75,5 +76,13 @@ https://www.canva.com/design/DAGgIvLOTIk/jCA2Y3XLzYzC5bw4_Hh1Cg/edit?utm_content
 # Imagem-Banco 
 
 ![Lógico_AtlasMundi2](https://github.com/user-attachments/assets/214027d8-3110-41dd-b47a-ac7aa0438f5a)
+
+---
+
+# Instalação
+
+
+
+
 
 
