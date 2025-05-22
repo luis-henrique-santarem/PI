@@ -9,10 +9,16 @@
 A proposta de uma plataforma de ensino de geografia com um mapa interativo visa transformar o aprendizado da disciplina em uma experiência dinâmica e envolvente. Ao permitir que os alunos explorem regiões do mundo e interajam com dados em tempo real, a plataforma promoverá a aquisição de conhecimentos e o desenvolvimento de habilidades críticas, como a análise espacial. Com recursos visuais intuitivos, buscamos estimular a curiosidade e o interesse pela diversidade geográfica, tornando o ensino da geografia mais significativo e atrativo.
 
 
-
-
-
 ---
+
+## Autores
+
+- [@Luis](https://github.com/luis-henrique-santarem)
+- [@Heloisa](https://github.com/LiviaHeloisa)
+- []()
+
+
+
 # Nosso agendamento de tarefas
 
 
