@@ -18,14 +18,14 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 ## Imagens
 
 
-
-![Captura de tela 2025-05-22 143532](https://github.com/user-attachments/assets/e9b04445-2815-47e5-9f0c-9c77281b2191)
 ### Tela principal
+![Captura de tela 2025-05-22 143532](https://github.com/user-attachments/assets/e9b04445-2815-47e5-9f0c-9c77281b2191)
 
 
 
-![image](https://github.com/user-attachments/assets/4a32376b-2e3b-4336-a060-b3393f1ac589)
 ### Tela informativa por país
+![image](https://github.com/user-attachments/assets/4a32376b-2e3b-4336-a060-b3393f1ac589)
+
 
 
 
