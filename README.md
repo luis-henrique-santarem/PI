@@ -8,17 +8,30 @@
 A proposta de uma plataforma de ensino de geografia com um mapa interativo visa transformar o aprendizado da disciplina em uma experiência dinâmica e envolvente. Ao permitir que os alunos explorem regiões do mundo e interajam com dados em tempo real, a plataforma promoverá a aquisição de conhecimentos e o desenvolvimento de habilidades críticas, como a análise espacial. Com recursos visuais intuitivos, buscamos estimular a curiosidade e o interesse pela diversidade geográfica, tornando o ensino da geografia mais significativo e atrativo.
 
 
+## Imagens
+
+
+
+![Captura de tela 2025-05-22 143532](https://github.com/user-attachments/assets/e9b04445-2815-47e5-9f0c-9c77281b2191)
+Esse e o planejamento de como vai ficar a tela principal
+
+
+
+![image](https://github.com/user-attachments/assets/4a32376b-2e3b-4336-a060-b3393f1ac589)
+Esse seria a tela do pais com algumas informações rapidas
+
+
 
 ## Índice
 
 
 - [Autores](#Autores)
 - [Licença](#Licença)
-- [Agendamento](#Agendamento)
+- [Contribuição](#Contribuição)
 - [Tecnologias](#Tecnologias)
+- [Funcionalidades](#Funcionalidades)
 - [Artigo](#Artigo)
 - [Apresentações](#Apresentações)
-- [Imagem-Banco](#Imagem-Banco)
 - [Instalação](#Instalação)
 
 
@@ -39,10 +52,15 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 Este projeto está licenciado sob a licença Apache 2.0. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-# Agendamento
 
 
-[Nosso Trello](https://trello.com/invite/b/682cb687094b52b44e1b9129/ATTIbde089498dc6829d582d981e7f1a7dd93BE445EF/atlasmundi-trello)
+## Contribuição
+
+1. Fork este repositório
+2. Crie sua branch: `git checkout -b minha-feature`
+3. Commit: `git commit -m 'Minha nova feature'`
+4. Push: `git push origin minha-feature`
+5. Crie um Pull Request
 
 
 ---
@@ -54,6 +72,12 @@ Este projeto está licenciado sob a licença Apache 2.0. Veja o arquivo [LICENSE
 - CSS
 - BRmodelo
 - MySQL
+
+## Funcionalidades
+
+1. Mapa interativo
+2. 
+
 
 
 # Artigo
@@ -73,11 +97,7 @@ primeira apresentação do AtlasMundi:
 https://www.canva.com/design/DAGgIvLOTIk/jCA2Y3XLzYzC5bw4_Hh1Cg/edit?utm_content=DAGgIvLOTIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
-# Imagem-Banco 
 
-![Lógico_AtlasMundi2](https://github.com/user-attachments/assets/214027d8-3110-41dd-b47a-ac7aa0438f5a)
-
----
 
 # Instalação
 
