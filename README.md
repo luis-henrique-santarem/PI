@@ -75,8 +75,11 @@ Este projeto está licenciado sob a licença Apache 2.0. Veja o arquivo [LICENSE
 
 ## Funcionalidades
 
-1. Mapa interativo
-2. 
+1. Mapa Geografico
+2. Mapa Politico
+3. Mapa Comercio
+4. Linha do Tempo
+5. Estudo do Pais
 
 
 
