@@ -44,8 +44,8 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 
 
 - [Autores](#Autores)
-- [RequisitosFuncionais(RF)](#RequisitosFuncionais(RF))
-- [RequisitosNãoFuncionais(RNF)](#RequisitosNãoFuncionais(RNF))
+- [RequisitosFuncionais](#RequisitosFuncionais)
+- [RequisitosNãoFuncionais](#RequisitosNãoFuncionais)
 - [Licença](#Licença)
 - [Contribuição](#Contribuição)
 - [Tecnologias](#Tecnologias)
@@ -67,7 +67,7 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 
 
 
-## RequisitosFuncionais(RF)
+## RequisitosFuncionais
 
 - RF01 – Visualização do mapa interativo: O sistema deve permitir que os usuários visualizem um mapa interativo com navegação geográfica.
 
@@ -79,7 +79,7 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 
 - RF05 – Interface amigável: O sistema deve apresentar uma interface gráfica intuitiva para facilitar a navegação do usuário.
 
-## RequisitosNãoFuncionais(RNF)
+## RequisitosNãoFuncionais
 
 - RNF01 – Usabilidade: A plataforma deve ser fácil de usar, com elementos gráficos que ajudem a compreensão dos dados geográficos.
 
