@@ -44,6 +44,8 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 
 
 - [Autores](#Autores)
+- [Requisitos Funcionais](#RequisitosFuncionais(RF))
+- [Requisitos não Funcionais](#RequisitosNãoFuncionais(RNF))
 - [Licença](#Licença)
 - [Contribuição](#Contribuição)
 - [Tecnologias](#Tecnologias)
@@ -51,8 +53,7 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 - [Artigo](#Artigo)
 - [Apresentações](#Apresentações)
 - [Instalação](#Instalação)
-- [Requisitos Funcionais](#RequisitosFuncionais(RF))
-- [Requisitos não Funcionais](#RequisitosNãoFuncionais(RNF))
+
 
 
   
