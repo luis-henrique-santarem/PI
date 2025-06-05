@@ -51,6 +51,8 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 - [Artigo](#Artigo)
 - [Apresentações](#Apresentações)
 - [Instalação](#Instalação)
+- [Requisitos Funcionais](#RequisitosFuncionais(RF))
+- [Requisitos não Funcionais](#RequisitosNãoFuncionais(RNF))
 
 
   
@@ -61,6 +63,29 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 - [@Luis](https://github.com/luis-henrique-santarem)
 - [@Heloisa](https://github.com/LiviaSobral)
 - [@João](https://github.com/JoaoPedroBackXavier)
+
+
+
+## RequisitosFuncionais(RF)
+
+- RF01 – Visualização do mapa interativo: O sistema deve permitir que os usuários visualizem um mapa interativo com navegação geográfica.
+
+- RF02 – Acesso a informações por país: O sistema deve fornecer informações específicas ao clicar em um país, como dados políticos, históricos, culturais e comerciais.
+
+- RF03 – Linha do tempo: O sistema deve apresentar uma linha do tempo interativa para visualizar a evolução histórica dos países.
+
+- RF04 – Diferenciação de tipos de mapas: O sistema deve permitir alternar entre diferentes tipos de mapas: geográfico, político e comercial.
+
+- RF05 – Interface amigável: O sistema deve apresentar uma interface gráfica intuitiva para facilitar a navegação do usuário.
+
+## RequisitosNãoFuncionais(RNF)
+
+- RNF01 – Usabilidade: A plataforma deve ser fácil de usar, com elementos gráficos que ajudem a compreensão dos dados geográficos.
+
+- RNF02 – Performance: O carregamento do mapa e das informações associadas deve ocorrer em tempo aceitável ( 2 segundos nas ações principais).
+
+- RNF03 – Segurança: A plataforma deve garantir a integridade dos dados e seguir boas práticas de segurança no acesso e à manipulação de informações.
+
 
 
 ## Licença
