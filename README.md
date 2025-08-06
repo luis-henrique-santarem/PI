@@ -150,7 +150,7 @@ https://www.canva.com/design/DAGgIvLOTIk/jCA2Y3XLzYzC5bw4_Hh1Cg/edit?utm_content
 
 # Trello
 
-![](https://trello.com/b/2vIJh9Mx/atlasmundi-trello)
+https://trello.com/b/2vIJh9Mx/atlasmundi-trello
 
 
 
