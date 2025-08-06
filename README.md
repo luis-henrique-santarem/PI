@@ -52,7 +52,7 @@ A proposta de uma plataforma de ensino de geografia com um mapa interativo visa 
 - [Funcionalidades](#Funcionalidades)
 - [Artigo](#Artigo)
 - [Apresentações](#Apresentações)
-- [Instalação](#Instalação)
+- [Trello](#Trello)
 
 
 
@@ -148,7 +148,9 @@ https://www.canva.com/design/DAGgIvLOTIk/jCA2Y3XLzYzC5bw4_Hh1Cg/edit?utm_content
 ---
 
 
-# Instalação
+# Trello
+
+![](https://trello.com/b/2vIJh9Mx/atlasmundi-trello)
 
 
 
