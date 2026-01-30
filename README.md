@@ -30,7 +30,7 @@ O Atlas Mundi está fundamentado em conceitos como:
 - Aprendizagem Ativa  
 - Análise Crítica do Espaço Geográfico  
 - Usabilidade e Experiência do Usuário (UX)  
-- Educação Digital Contemporânea  
+- Educação Digital Contemporânea
 
 A proposta busca superar práticas tradicionais baseadas apenas na memorização, incentivando a **exploração, interação e reflexão**.
 
@@ -49,13 +49,16 @@ A proposta busca superar práticas tradicionais baseadas apenas na memorização
 ## ⚙️ Instalação e Execução
 
 ### Pré-requisitos
-- Node.js (versão 18 ou superior)
-- npm ou yarn
-- MySQL
-- Git
 
-### Passos para instalação
+Antes de rodar o projeto, você precisa ter instalado:
 
-1. Clone o repositório:
+- **Node.js** (versão 18 ou superior)  
+- **npm** ou **yarn**  
+- **MySQL**  
+- **Git**
+
+### Passos para instalar e rodar
+
+1. **Clonar o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/atlas-mundi.git
+   git clone https://github.com/luis-henrique-santarem/PI.git
