@@ -30,7 +30,7 @@ O Atlas Mundi está fundamentado em conceitos como:
 - Aprendizagem Ativa  
 - Análise Crítica do Espaço Geográfico  
 - Usabilidade e Experiência do Usuário (UX)  
-- Educação Digital Contemporânea
+- Educação Digital Contemporânea  
 
 A proposta busca superar práticas tradicionais baseadas apenas na memorização, incentivando a **exploração, interação e reflexão**.
 
@@ -38,10 +38,10 @@ A proposta busca superar práticas tradicionais baseadas apenas na memorização
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **React** – Interface baseada em componentes reutilizáveis
-- **Leaflet** – Construção de mapas interativos
-- **OpenStreetMap** – Dados geográficos
-- **MySQL** – Armazenamento das informações dos países
+- **React**
+- **Leaflet**
+- **OpenStreetMap**
+- **MySQL**
 - **HTML, CSS e JavaScript**
 
 ---
@@ -50,15 +50,13 @@ A proposta busca superar práticas tradicionais baseadas apenas na memorização
 
 ### Pré-requisitos
 
-Antes de rodar o projeto, você precisa ter instalado:
+- Node.js (18 ou superior)
+- npm ou yarn
+- MySQL
+- Git
 
-- **Node.js** (versão 18 ou superior)  
-- **npm** ou **yarn**  
-- **MySQL**  
-- **Git**
+### Passos
 
-### Passos para instalar e rodar
-
-1. **Clonar o repositório**
-   ```bash
-   git clone https://github.com/luis-henrique-santarem/PI.git
+```bash
+git clone https://github.com/luis-henrique-santarem/PI.git
+cd PI
