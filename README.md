@@ -111,6 +111,7 @@ npm start
 Este projeto é fundamentado no artigo acadêmico:
 
 Atlas Mundi: Uma Plataforma Digital Interativa para o Ensino de Geografia
+
 Apresentado no II Congresso Internacional de Educação, Ciência e Tecnologia (II CIECT).
 
 Artigo: [AtlasMundi (1).pdf](https://github.com/user-attachments/files/24972723/AtlasMundi.1.pdf)
@@ -133,6 +134,7 @@ O Atlas Mundi se apresenta como uma ferramenta inovadora para o ensino de Geogra
 
 Projeto desenvolvido por estudantes do
 **Serviço Nacional de Aprendizagem Comercial – SENAC**
+
 **São Leopoldo – RS**
 
 
