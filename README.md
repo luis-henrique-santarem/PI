@@ -1,14 +1,16 @@
 # 🌍 Atlas Mundi
 
-**Atlas Mundi** é uma plataforma digital interativa voltada ao **ensino de Geografia**, desenvolvida para tornar o processo de aprendizagem mais dinâmico, visual e significativo por meio da exploração de mapas interativos e conteúdos temáticos sobre diferentes países.
+**Atlas Mundi** é uma plataforma digital interativa voltada ao **ensino de Geografia**, desenvolvida para tornar o processo de aprendizagem mais **dinâmico, visual e significativo**, por meio da exploração de mapas interativos e conteúdos temáticos sobre países do mundo.
+
+O projeto integra **tecnologia, pedagogia e interatividade**, promovendo aprendizagem ativa, protagonismo discente e autonomia docente.
 
 ---
 
 ## 📚 Sobre o Projeto
 
-O projeto surgiu a partir dos desafios enfrentados no ensino de disciplinas tradicionais, especialmente no que se refere ao **engajamento dos estudantes** e à **compreensão de fenômenos geográficos em escala global**.
+O Atlas Mundi surgiu a partir dos desafios enfrentados no ensino de Geografia, especialmente relacionados ao **baixo engajamento dos estudantes** e à **dificuldade de compreensão do espaço geográfico em escala global** quando trabalhado apenas por métodos tradicionais.
 
-A plataforma permite que alunos explorem informações **políticas, históricas e culturais** de países ao redor do mundo de forma ativa, enquanto professores atuam como curadores e mediadores do conteúdo.
+A plataforma permite que alunos explorem informações **históricas, políticas e culturais** dos países de forma interativa, enquanto professores atuam como **curadores e mediadores do conteúdo**, criando e atualizando materiais conforme suas necessidades pedagógicas.
 
 ---
 
@@ -16,44 +18,78 @@ A plataforma permite que alunos explorem informações **políticas, históricas
 
 - Tornar o ensino de Geografia mais **interativo e visual**
 - Estimular o **protagonismo do aluno**
-- Oferecer **autonomia docente** na criação e atualização dos conteúdos
+- Promover **aprendizagem ativa**
+- Oferecer **autonomia docente** na criação e gestão de conteúdos
 - Facilitar a compreensão do espaço geográfico em suas múltiplas dimensões
-- Promover uma aprendizagem **crítica e significativa**
+- Incentivar uma aprendizagem **crítica, reflexiva e significativa**
 
 ---
 
 ## 🧠 Fundamentação Pedagógica
 
-O Atlas Mundi está fundamentado em conceitos como:
+O projeto está fundamentado em conceitos contemporâneos da Educação, como:
 
-- Tecnologias Digitais na Educação  
-- Aprendizagem Ativa  
-- Análise Crítica do Espaço Geográfico  
-- Usabilidade e Experiência do Usuário (UX)  
-- Educação Digital Contemporânea  
+- Tecnologias Digitais da Informação e Comunicação (TDIC)
+- Aprendizagem Ativa
+- Educação Digital Contemporânea
+- Análise Crítica do Espaço Geográfico
+- Usabilidade e Experiência do Usuário (UX)
+- Acessibilidade Digital
 
-A proposta busca superar práticas tradicionais baseadas apenas na memorização, incentivando a **exploração, interação e reflexão**.
+A proposta busca superar práticas baseadas exclusivamente na memorização, incentivando a **exploração, interação e reflexão crítica** sobre o espaço geográfico.
+
+---
+
+## 🧭 Funcionalidades
+
+### 👨‍🏫 Professor
+- Cadastro e login
+- Criação, edição e exclusão de conteúdos
+- Organização das informações por país
+- Classificação temática (História, Política e Cultura)
+- Autonomia para atualização constante dos conteúdos
+
+### 👨‍🎓 Aluno
+- Exploração do mapa-múndi interativo
+- Busca por países
+- Navegação temática
+- Aprendizagem no próprio ritmo
+- Interação visual com os territórios
+
+### ♿ Acessibilidade
+- Alteração de idioma
+- Ajuste do tamanho da fonte
+- Interface simples, intuitiva e inclusiva
+- Preocupação com usabilidade e legibilidade
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **React**
-- **Leaflet**
-- **OpenStreetMap**
-- **MySQL**
-- **HTML, CSS e JavaScript**
+### Frontend
+- React
+- Leaflet
+- OpenStreetMap
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Node.js
+- Express
+- MySQL
 
 ---
 
 ## ⚙️ Instalação e Execução
 
-### Pré-requisitos
-
-- Node.js (18 ou superior)
+### 📌 Pré-requisitos
+- Node.js (versão 18 ou superior)
 - npm ou yarn
 - MySQL
 - Git
+
+---
 
 ### Passos
 
@@ -63,7 +99,7 @@ cd PI
 
 cd FrontEndPI
 npm install
-Npm run dev
+npm run dev
 
 cd BackAtlasMundi
 npm install
@@ -99,10 +135,10 @@ npm start
  ### Tela Configuração
 <img width="1919" height="944" alt="Captura de tela 2026-01-30 151554" src="https://github.com/user-attachments/assets/c6b19fb0-5b9f-4a29-830d-b1e6424aad60" />
 
-### Tela de Deslogar
+### Tela de Logout
 <img width="1919" height="944" alt="Captura de tela 2026-01-30 151609" src="https://github.com/user-attachments/assets/423d2a17-a80c-4445-9d66-8e17071297ac" />
 
-### Tela de Historia (essa tela e parecida com a de politica e cultura so muda o titulo principal)
+### Tela de Conteúdo (História / Política / Cultura)
 <img width="1916" height="943" alt="Captura de tela 2026-01-28 165514" src="https://github.com/user-attachments/assets/e180ae6a-c237-4b4e-884b-e795a9e05b9e" />
 
 ---
