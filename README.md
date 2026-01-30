@@ -60,3 +60,32 @@ A proposta busca superar práticas tradicionais baseadas apenas na memorização
 ```bash
 git clone https://github.com/luis-henrique-santarem/PI.git
 cd PI
+
+cd FrontEndPI
+npm install
+Npm run dev
+
+cd BackAtlasMundi
+npm install
+npm start
+````
+---
+## 🧭 Funcionalidades
+
+### Professor
+- Cadastro e login
+- Criação, edição e exclusão de conteúdos
+- Organização das informações por país ( história, política e cultura)
+- Autonomia para atualização dos conteúdos
+
+### Aluno
+- Exploração do mapa-múndi interativo
+- Busca por países
+- Navegação temática
+- Aprendizagem no próprio ritmo
+
+ ### Acessibilidade
+ - Alteração de idioma
+ - Ajuste do tamanho da fonte
+ - Interface simples, intuitiva e inclusiva
+   
