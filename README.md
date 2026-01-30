@@ -88,4 +88,21 @@ npm start
  - Alteração de idioma
  - Ajuste do tamanho da fonte
  - Interface simples, intuitiva e inclusiva
+
+---
+
+## 🖥️ Interface da Plataforma
+
+ ### Tela Principal
+<img width="1916" height="947" alt="Captura de tela 2026-01-30 151537" src="https://github.com/user-attachments/assets/bcb64e48-209e-433e-a25a-8a3325022b0d" />
+
+ ### Tela Configuração
+<img width="1919" height="944" alt="Captura de tela 2026-01-30 151554" src="https://github.com/user-attachments/assets/c6b19fb0-5b9f-4a29-830d-b1e6424aad60" />
+
+### Tela de Deslogar
+<img width="1919" height="944" alt="Captura de tela 2026-01-30 151609" src="https://github.com/user-attachments/assets/423d2a17-a80c-4445-9d66-8e17071297ac" />
+
+### Tela de Historia (essa tela e parecida com a de politica e cultura so muda o titulo principal)
+<img width="1916" height="943" alt="Captura de tela 2026-01-28 165514" src="https://github.com/user-attachments/assets/e180ae6a-c237-4b4e-884b-e795a9e05b9e" />
+
    
