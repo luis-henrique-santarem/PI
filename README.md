@@ -105,4 +105,35 @@ npm start
 ### Tela de Historia (essa tela e parecida com a de politica e cultura so muda o titulo principal)
 <img width="1916" height="943" alt="Captura de tela 2026-01-28 165514" src="https://github.com/user-attachments/assets/e180ae6a-c237-4b4e-884b-e795a9e05b9e" />
 
+---
+
+## 📄 Artigo Científico
+Este projeto é fundamentado no artigo acadêmico:
+
+Atlas Mundi: Uma Plataforma Digital Interativa para o Ensino de Geografia
+Apresentado no II Congresso Internacional de Educação, Ciência e Tecnologia (II CIECT).
+
+Artigo: [AtlasMundi (1).pdf](https://github.com/user-attachments/files/24972723/AtlasMundi.1.pdf)
+
+### Resumo
+O artigo apresenta o desenvolvimento da plataforma Atlas Mundi, um ambiente educacional digital interativo voltado ao ensino de Geografia mundial. A proposta surge da necessidade de tornar o processo de aprendizagem mais dinâmico, visual e significativo frente aos desafios do ensino tradicional.
+
+A pesquisa caracteriza-se como aplicada, de abordagem qualitativa, envolvendo o planejamento, desenvolvimento e implementação de um software educacional baseado em mapas interativos. A plataforma foi desenvolvida utilizando tecnologias web modernas, integrando visualização espacial, organização temática dos conteúdos e recursos voltados à autonomia docente e ao protagonismo discente.
+
+Os resultados indicam maior engajamento dos estudantes, promoção da aprendizagem ativa, estímulo ao pensamento crítico e preocupação com aspectos de usabilidade e acessibilidade, como ajuste de idioma e tamanho de fonte.
+
+---
+
+## 🚀 Consideração Finais
+O Atlas Mundi se apresenta como uma ferramenta inovadora para o ensino de Geografia, integrando tecnologia, pedagogia e interatividade. A plataforma contribui para práticas educacionais mais dinâmicas, inclusivas e alinhadas às demandas da educação digital contemporânea.
+
+---
+
+## 👥 Autores
+
+Projeto desenvolvido por estudantes do
+**Serviço Nacional de Aprendizagem Comercial – SENAC**
+**São Leopoldo – RS**
+
+
    
